@@ -66,7 +66,7 @@ class _ProfilePageState extends State<ProfilePage> {
           Align(
             alignment: Alignment.center,
             child: IconButton(
-              color: Colors.blue.withOpacity(0.4),
+              color: Colors.white.withOpacity(0.2),
               icon: Icon(
                 FontAwesomeIcons.camera,
                 size: 30,
